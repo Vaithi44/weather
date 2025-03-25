@@ -1,3 +1,3 @@
 # weather
 
-## URL: https://vaithi44.github.io/wheather/
+## URL: https://vaithi44.github.io/weather/
